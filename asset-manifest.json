@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49183e92.chunk.css",
+    "main.js": "/static/js/main.ac7a594a.chunk.js",
+    "main.js.map": "/static/js/main.ac7a594a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5bcad583.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5bcad583.js.map",
+    "static/js/2.160d0042.chunk.js": "/static/js/2.160d0042.chunk.js",
+    "static/js/2.160d0042.chunk.js.map": "/static/js/2.160d0042.chunk.js.map",
+    "static/js/3.edf14885.chunk.js": "/static/js/3.edf14885.chunk.js",
+    "static/js/3.edf14885.chunk.js.map": "/static/js/3.edf14885.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49183e92.chunk.css.map": "/static/css/main.49183e92.chunk.css.map",
+    "static/js/2.160d0042.chunk.js.LICENSE.txt": "/static/js/2.160d0042.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/MorganPosterAvec-Bold.26268a63.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bcad583.js",
+    "static/js/2.160d0042.chunk.js",
+    "static/css/main.49183e92.chunk.css",
+    "static/js/main.ac7a594a.chunk.js"
+  ]
+}
