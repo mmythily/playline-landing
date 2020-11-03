@@ -1,0 +1,36 @@
+#players-container{
+  display:flex;
+}
+
+#player-list{
+  list-style-type: none;
+}
+
+#player-img{
+  border:3px solid #fff;
+  background:#efefef;
+  border-radius:50%;
+  height:70px;
+  margin-left:-10px;
+  z-index: -1;
+}
+
+#player-name-pts{
+  text-transform: uppercase;
+  font-size:.7em;
+  color:#606060;
+  margin:-3px 0;
+}
+
+#player-points{
+  border: 3px solid #cecece;
+  background: #f9f9f9;
+  border-radius: 50%;
+  height: 44px;
+  width: 44px;
+  line-height:44px;
+  margin:16%;
+  font-family: 'MorganPosterAvec Bold';
+  color:#4a4a4a;
+  font-size: 1.2em;
+}

@@ -1,0 +1,39 @@
+{
+  "players": [
+    {
+      "headshot":"../assets/headshots/1-Lebron-James-PLP59D7092A6F6CEv2.png",
+      "last_name": "James",
+      "points": 28
+    },
+    {
+      "headshot":"../assets/headshots/2-Anthony-Davis-PLP59D70938C0B3Ev2.png",
+      "last_name": "Davis",
+      "points": 29
+    },
+    {
+      "headshot":"../assets/headshots/3-Aaron%20Gordon%20-PLP59D7092156491v2.png",
+      "last_name": "Gordon",
+      "points": 16
+    },
+    {
+      "headshot":"../assets/headshots/4-Pascal-Siakam-PLP59D70927CC6DD.png",
+      "last_name": "Siakam",
+      "points": 24
+    },
+    {
+      "headshot":"../assets/headshots/5-Kawhi-Leonard-PLP59D7093A107E7v2.png",
+      "last_name": "Leonard",
+      "points": 27
+    },
+    {
+      "headshot":"../assets/headshots/6-Kyle-Lowry-PLP59D70927DF104.png",
+      "last_name": "Lowry",
+      "points": 18
+    },
+    {
+      "headshot":"../assets/headshots/7-Dangelo%20Russell%20PLP59D709255D994v4.png",
+      "last_name": "Russell",
+      "points": 23
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+@font-face{
+  font-family:'MorganPosterAvec Bold';
+  src: local('MorganPosterAvec Bold'), 
+    url('./fonts/MorganPosterAvec-Bold.otf') 
+    format('opentype');
+}
+
+body {
+  background: #011f46;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+#sports-lotto-logo{
+  margin-top:20px;
+  padding:50px;
+  width: 65%;
+  height: auto;
+}
+
